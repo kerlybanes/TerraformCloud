@@ -1,0 +1,60 @@
+    1  D:
+    2  cd D:
+    3  cd Fuentes
+    4  git clone https://github.com/Supereasy-Developers/Mitienda_SE1.git
+    5  git clone https://github.com/Supereasy-Developers/SE2_Mercado.git
+    6  ll
+    7  git clone https://github.com/Supereasy-Developers/Mercado_SE1_PRD.git
+    8  git clone https://github.com/Supereasy-Developers/SuperEasy.Share.git
+    9  cd ~C:\Users\Luis\Documents\TerraformKerly~
+   10  cd C:\Users\Luis\Documents\TerraformKerly
+   11  cd C:\\Users\\Luis\\Documents\\TerraformKerly
+   12  git clone https://github.com/kerlybanes/TerraformCloud.git
+   13  ll
+   14  cd TerraformCloud/
+   15  git remote -v
+   16  git checkout -b master
+   17  git push origin master
+   18  git push origin master
+   19  git branch -a
+   20  git pull
+   21  git checkout -b dev
+   22  master
+   23  git checkout master
+   24  git switch dev
+   25  git status
+   26  git status
+   27  git diff README.md
+   28  git diff README.md
+   29  git status
+   30  git add README.md 
+   31  git status
+   32  git add -A
+   33  git status
+   34  git commit -m "Mi primer commit de terraform"
+   35  git status
+   36  git push origin dev
+   37  git config --global user.email "kerly.banes@gmail.com"
+   38  git config --global user.name "Kerly"
+   39  git commit -m "Mi primer commit de terraform"
+   40  git push origin dev
+   41  git status
+   42  git switch master
+   43  git pull origin master
+   44  git switch dev
+   45  git switch master
+   46  git log
+   47  git switch dev
+   48  git log
+   49  git pull origin master
+   50  git log
+   51  git reset --hard 5af9c7c66ff940be7b55efd1476b2db0c120e74b
+   52  git push origin dev
+   53  git push origin dev -f
+   54  git switch master
+   55  git log
+   56  git reset --hard 5af9c7c66ff940be7b55efd1476b2db0c120e74b
+   57  git push origin master -f
+   58  git log
+   59  history
+   60  history >comandos_git-txt
